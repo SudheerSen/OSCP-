@@ -1,4 +1,6 @@
 # OSCP Roadmap
+<a href="https://twitter.com/sudheerSen17"><img src="https://img.shields.io/twitter/follow/an0nud4y?label=Twitter&style=social" alt="Twitter"></a>
+
 ## Level-1
 ### Fundamentals
      Programming Language
@@ -105,7 +107,9 @@
 Now You have Prepared for the Exam
 # "All the Very Best For your Bright Future!"
 
-
+<br>
+<img src=giphy.gif width="300">
+</br>
     
     
     
