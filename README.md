@@ -104,8 +104,8 @@
      Video Lecture
      e-books
      Labs
-Now You have Prepared for the Exam
-# "All the Very Best For your Bright Future!"
+Now You have Prepared for the Exam !
+# "All the Very Best For your Bright Future !"
 
 <br>
      <img src=trgt.gif.gif width="300">
